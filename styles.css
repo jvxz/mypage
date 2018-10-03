@@ -1,0 +1,91 @@
+ #container {
+     background-color: #4F5B6C;
+     color: #9199A3;
+     border: 9px solid #606e85;
+     width: 1600px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+#container-index {
+     background-color: #6169BA;
+     color: #AFB3E3;
+     border: 9px solid #606e85;
+     width: 2214px;
+     margin-left: auto;
+     margin-right: auto;
+}
+ body {
+     background-color: #8F96A0;
+}
+ p {
+     font-family: Adobe Hebrew;
+}
+ a {
+     font-family: Adobe Hebrew;
+}
+ h1 {
+     font-size: 60px;
+     line-height: 1;
+     font-family: Adobe Hebrew;
+     text-align: center 
+}
+ h2 {
+     font-size: 30px;
+     line-height: 1;
+     font-family: Adobe Hebrew;
+     text-align: center 
+}
+ address {
+     font-family: Adobe Hebrew;
+}
+hr {
+	border: 1;
+	width: 70%;
+	color: #384353;
+	background-color:#384353;
+	height: 1px;
+}
+ table, th, td {
+    border: 3px solid #8990D8;
+    background-color: #434DA6;
+	font-family: Adobe Hebrew;
+}
+ h1.title {
+     background-color: #263296;
+}
+ p.center {
+     text-align: center;
+}
+ p.line-height {
+     line-height: 30px;
+}
+ p.text-indent {
+     text-indent: 6px;
+}
+ address.center {
+     text-align: center;
+}
+ address.line-height {
+     line-height: 54px;
+}
+ a:link {
+     color: #C7A39D;
+     background-color: transparent;
+     text-decoration: underline;
+     font-size: 24px;
+}
+ a:visited {
+     color: #C7A39D;
+     background-color: transparent;
+     text-decoration: underline;
+}
+ a:hover {
+     color: #263296;
+     background-color: transparent;
+     text-decoration: underline;
+}
+ a:active {
+     color: yellow;
+     background-color: transparent;
+     text-decoration: underline;
+}
